@@ -1,0 +1,20 @@
+{
+    "invalidInputTitle": "Invalid Input",
+    "invalidInputMessage": "Please enter a valid number.",
+    "conversionErrorTitle": "Conversion Error",
+    "conversionErrorMessage": "An error occurred while converting the temperature.",
+    "shareTitle": "Share Conversion",
+    "savePresetErrorTitle": "Error Saving Preset",
+    "savePresetErrorMessage": "An error occurred while saving the preset.",
+    "saveToHistoryErrorTitle": "Error Saving to History",
+    "saveToHistoryErrorMessage": "An error occurred while saving to the conversion history.",
+    "loadPresetsErrorTitle": "Error Loading Presets",
+    "loadPresetsErrorMessage": "An error occurred while loading presets.",
+    "loadHistoryErrorTitle": "Error Loading History",
+    "loadHistoryErrorMessage": "An error occurred while loading conversion history.",
+    "fetchWeatherErrorTitle": "Error Fetching Weather",
+    "fetchWeatherErrorMessage": "An error occurred while fetching the current weather.",
+    "positionErrorTitle": "Error Getting Position",
+    "positionErrorMessage": "An error occurred while getting the current position."
+  }
+  

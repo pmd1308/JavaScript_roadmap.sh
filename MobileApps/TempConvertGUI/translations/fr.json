@@ -1,0 +1,20 @@
+{
+    "invalidInputTitle": "Entrée invalide",
+    "invalidInputMessage": "Veuillez entrer un numéro valide.",
+    "conversionErrorTitle": "Erreur de conversion",
+    "conversionErrorMessage": "Une erreur s'est produite lors de la conversion de la température.",
+    "shareTitle": "Partager la conversion",
+    "savePresetErrorTitle": "Erreur lors de l'enregistrement du préréglage",
+    "savePresetErrorMessage": "Une erreur s'est produite lors de l'enregistrement du préréglage.",
+    "saveToHistoryErrorTitle": "Erreur lors de l'enregistrement dans l'historique",
+    "saveToHistoryErrorMessage": "Une erreur s'est produite lors de l'enregistrement dans l'historique de conversion.",
+    "loadPresetsErrorTitle": "Erreur lors du chargement des préréglages",
+    "loadPresetsErrorMessage": "Une erreur s'est produite lors du chargement des préréglages.",
+    "loadHistoryErrorTitle": "Erreur lors du chargement de l'historique",
+    "loadHistoryErrorMessage": "Une erreur s'est produite lors du chargement de l'historique de conversion.",
+    "fetchWeatherErrorTitle": "Erreur lors de la récupération de la météo",
+    "fetchWeatherErrorMessage": "Une erreur s'est produite lors de la récupération de la météo actuelle.",
+    "positionErrorTitle": "Erreur lors de l'obtention de la position",
+    "positionErrorMessage": "Une erreur s'est produite lors de l'obtention de la position actuelle."
+  }
+  
